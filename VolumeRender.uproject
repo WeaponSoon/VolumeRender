@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5CEEC49D-44D3-3A80-0435-ABBF1BFEE4EC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VolumeRender",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
